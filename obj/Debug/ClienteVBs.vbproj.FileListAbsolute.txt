@@ -1,0 +1,13 @@
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\bin\Debug\ClienteVBs.exe.config
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\bin\Debug\ClienteVBs.exe
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\bin\Debug\ClienteVBs.pdb
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\bin\Debug\ClienteVBs.xml
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\obj\Debug\ClienteVBs.vbproj.AssemblyReference.cache
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\obj\Debug\ClienteVBs.vbproj.SuggestedBindingRedirects.cache
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\obj\Debug\ClienteVBs.Form1.resources
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\obj\Debug\ClienteVBs.Resources.resources
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\obj\Debug\ClienteVBs.vbproj.GenerateResource.cache
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\obj\Debug\ClienteVBs.vbproj.CoreCompileInputs.cache
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\obj\Debug\ClienteVBs.exe
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\obj\Debug\ClienteVBs.xml
+E:\UAC 2022 - II\DESARROLLO DE PLATAFORMAS DE SOFTWARE\WebServiceTest\ClienteVBs\obj\Debug\ClienteVBs.pdb
